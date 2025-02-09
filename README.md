@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sabid02
-- 👀 I’m passionate about web development, computer vision, and machine learning.
+- 👀 I’m passionate about web development, computer vision, machine learning, and deep learning.
 - 🌱 Currently, I’m working with the MERN stack and exploring AI-driven solutions.
 - 💞️ I’m looking to collaborate on web-based projects
 - 📫 email me at sabidr02@gmail.com
